@@ -1,3 +1,7 @@
+# darrend/jedis
+
+Forked mostly for building only. Trying to get SENTINEL support going in a local build. 
+
 # Jedis
 
 Jedis is a blazingly small and sane [Redis](http://github.com/antirez/redis "Redis") java client.
